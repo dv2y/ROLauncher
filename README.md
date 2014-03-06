@@ -11,7 +11,7 @@ You can get that here: *to add
 
 How that works?
 ---------------
-Launcher.ini holds just your RCX and RO path, and Launcher.bat utilizes that information to launch both applications.
+Launcher.ini holds just your RCX and RO paths, and Launcher.bat utilizes that information to launch both applications.
 
 License
 -------
