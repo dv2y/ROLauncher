@@ -11,4 +11,7 @@ You can get that here: *to add
 
 How that works?
 ---------------
+
+Put both Launcher.bat and Launcher.ini on your RO folder, edit Launcher.ini with the path for both applications and wow.
+
 Launcher.ini holds just your RCX and RO paths, and Launcher.bat utilizes that information to launch both applications.
